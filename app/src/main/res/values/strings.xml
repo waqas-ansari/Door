@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DoorLock</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ledcontrol">LEDControl</string>
+    <string name="title_activity_temperature_reading">TemperatureReading</string>
+    <string name="title_activity_door_lock">DoorLock</string>
+</resources>
